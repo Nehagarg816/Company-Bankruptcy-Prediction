@@ -6,3 +6,4 @@ Company Bankruptcy Prediction is a precise prediction of whether a company will 
 
 # Exploratory Data Analysis (EDA)
 EDA involves the distribution of bankruptcy and non-bankruptcy classes in the dataset. It includes visualizing the distribution in the form of a bar plot.
+![eda](https://github.com/Nehagarg816/Company-Bankruptcy-Prediction/assets/111566521/b70a5388-0dbc-4ee9-9e9d-5e52dfc7f8b1)
