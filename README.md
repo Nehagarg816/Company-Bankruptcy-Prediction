@@ -21,3 +21,6 @@ The SimpleImputer classifier is employed to train the data in categories. Simple
 The performance of the Model is evaluated using recall_score, precison_score, accuracy_score, and f1_score. The Accuracy score predicted after predictions was 93.29% (approx.).
 
 ![image](https://github.com/Nehagarg816/Company-Bankruptcy-Prediction/assets/111566521/57d2afa3-6621-44da-83b7-431a156ca72f)
+
+# Collab Link
+https://colab.research.google.com/drive/1eA2oS8HtUTcvm_kg4nXW96_0Xb2jt4H0?usp=sharing
